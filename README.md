@@ -1,7 +1,7 @@
 SparkFun QwiicNES Arduino Library
 ===========================================================
 
-[*SparkFun Qwiic Joystick (SPX-18038)*](https://www.sparkfun.com/products/18038)
+[*The QwiicNES (SPX-18038)*](https://www.sparkfun.com/products/18038)
 
 For people of a certain generation, the Nintendo Entertainment System packs more nostalgia per byte than any other game system. Thanks to the continued popularity of this "vintage" hardware, original and reproduction controllers are readily available! Why not put some of these excellent controllers to use in your next robotics project? OR hook up the USB cable and use your favorite vintage controller as a modern gamepad! 
 
