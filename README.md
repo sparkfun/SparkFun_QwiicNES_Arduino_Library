@@ -5,7 +5,7 @@ SparkFun QwiicNES Arduino Library
 
 For people of a certain generation, the Nintendo Entertainment System packs more nostalgia per byte than any other game system. Thanks to the continued popularity of this "vintage" hardware, original and reproduction controllers are readily available! Why not put some of these excellent controllers to use in your next robotics project? OR hook up the USB cable and use your favorite vintage controller as a modern gamepad! 
 
-The I2C address of Qwiic Joystick is software configurable which means you can hookup over 100 on a single I2C bus!
+The I2C address of The QwiicNES is software configurable which means you can hookup over 100 on a single I2C bus!
 
 Repository Contents
 -------------------
